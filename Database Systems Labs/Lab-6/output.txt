@@ -1,5 +1,4 @@
-// ADITYA CHANDRA
-// 200953032
+// H Ganapathi Kamath
 // CCE-A1/9
 
 SQL*Plus: Release 11.1.0.6.0 - Production on Wed Apr 27 11:25:56 2022

@@ -1,5 +1,4 @@
-//Aditya Chandra
-//200953032 CCE - A / 9
+// H Ganapathi Kamath
 //DBS LAB - 5
 // COMMANDS
 
@@ -47,7 +46,7 @@ CREATE TABLE BOOK_ADOPTION (
 );
 	
 
-INSERT INTO student VALUES ('a101', 'Aditya Chandra', 'CCE', DATE '2002-01-04');
+INSERT INTO student VALUES ('a101', ' H Ganapathi Kamath', 'CCE', DATE '2002-01-04');
 INSERT INTO student VALUES ('a102', 'Shourya Gupta', 'CSE', DATE '2003-02-05');
 INSERT INTO student VALUES ('a103', 'Anurag Chowdhary', 'IT', DATE '2004-03-06');
 INSERT INTO student VALUES ('a104', 'Praveen Verma', 'DSE', DATE '2005-04-07');

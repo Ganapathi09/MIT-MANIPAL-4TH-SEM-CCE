@@ -1,5 +1,4 @@
-By: Aditya Chandra
-200953032
+By:  H Ganapathi Kamath
 CCE-A / 9
 LAB - 4
 CLI OUTPUTS 

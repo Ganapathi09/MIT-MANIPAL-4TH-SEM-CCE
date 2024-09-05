@@ -1,5 +1,4 @@
-// By: Aditya Chandra
-// 200953032/CCE-A
+
 // Batch: 1
 // Airport DB
 

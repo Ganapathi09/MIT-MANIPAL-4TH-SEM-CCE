@@ -1,6 +1,5 @@
 // By: 
-// Aditya Chandra
-// 200953032
+// H Ganapathi Kamath
 // CCE - A 
 // Database Systems Lab - 3
 
@@ -49,7 +48,7 @@ CREATE TABLE Participated(
 //Q2
 
 INSERT INTO Person
-VALUES('a101', 'Aditya Chandra', 'Surat,Guj,INDIA');
+VALUES('a101', 'ganapathi', 'Udupi,INDIA');
 
 
 INSERT INTO Person
